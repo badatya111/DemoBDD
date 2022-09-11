@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="40.818445">
+<testcase classname="opencart" name="Add members in to pandarasamaj protal" time="40.818445">
+<system-out><![CDATA[Given The user launch Chrome browser........................................passed
+When The user click on my account link......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
